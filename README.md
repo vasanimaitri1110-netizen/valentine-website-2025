@@ -46,21 +46,21 @@ Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
 valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+pageTitle: "Will You Be My Valentine Aadu?🥺" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    hearts: ['❤️', '💖', '💝', '💗', '💞'],  // Heart emojis in background
+    bears: ['🧸', '😽']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
+        text: "Do you like me?😋",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I don't like you, I love you!❤️"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
@@ -68,9 +68,9 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "Will you be my forever Valentine baby?",      // Final question
+        yesBtn: "Yes😋💗!",                            // Yes button text
+        noBtn: "No😒"                                // No button text
     }
 }
 
@@ -83,9 +83,9 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    title: "Yay! I'm the luckiest person",     // Celebration title
+    message: "What do you want as your gift?",          // Celebration message
+    emojis:""                        // Celebration emojis
 }
 
 // Website Colors
