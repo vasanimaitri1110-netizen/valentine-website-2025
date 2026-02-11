@@ -68,7 +68,7 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my forever Valentine baby?",      // Final question
+        text: "Will you pleasee be my forever Valentine baby?",      // Final question
         yesBtn: "Yes😋💗!",                            // Yes button text
         noBtn: "No😒"                                // No button text
     }
@@ -76,9 +76,9 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "YAYY You love me that much??🥰💝",  // Shows above 5000%
+    high: "To infinity and beyond!💝",              // Shows above 1000%
+    normal: "And beyond!🥰"                           // Shows above 100%
 }
 
 // Final Celebration
